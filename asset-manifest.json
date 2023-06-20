@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TTP-GIF-API/static/css/main.4b6106b7.css",
+    "main.js": "/TTP-GIF-API/static/js/main.13cd46f0.js",
+    "static/js/787.3b459fd0.chunk.js": "/TTP-GIF-API/static/js/787.3b459fd0.chunk.js",
+    "index.html": "/TTP-GIF-API/index.html",
+    "main.4b6106b7.css.map": "/TTP-GIF-API/static/css/main.4b6106b7.css.map",
+    "main.13cd46f0.js.map": "/TTP-GIF-API/static/js/main.13cd46f0.js.map",
+    "787.3b459fd0.chunk.js.map": "/TTP-GIF-API/static/js/787.3b459fd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b6106b7.css",
+    "static/js/main.13cd46f0.js"
+  ]
+}
