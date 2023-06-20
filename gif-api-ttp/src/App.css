@@ -1,0 +1,62 @@
+body {
+  background-color: teal;
+}
+
+.app-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 25px;
+  background-color: teal;
+}
+
+.gif-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 7px;
+  padding: 5px;
+  border: 0.5px solid #ddd;
+  border-radius: 15px;
+  width: 250px;
+  background:
+        linear-gradient(purple, transparent),
+        linear-gradient(to top left, grey, transparent),
+        linear-gradient(to top right, aqua, transparent);
+    background-blend-mode: screen;
+  overflow: hidden;
+  border: solid lavender;
+}
+
+.gif-card img {
+  max-width: 95%;
+  max-height: 95%;
+}
+
+.search-input {
+  margin: 15px auto;
+  margin-left: 624px;
+  padding: 10px;
+  width: 250px;
+  border: te;
+  border-radius: 50px;
+  outline: none;
+  background-color: #333;
+  color: lavender;
+  font-size: 16px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease;
+}
+
+footer {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: none;
+  color: black;
+  text-align: center;
+}
